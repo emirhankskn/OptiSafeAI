@@ -122,3 +122,89 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Visual Studio için
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.vcxproj.user
+*.filters
+*.log
+ipch/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+[Aa]pp[Dd]ata/
+[Ll]og/
+*.nupkg
+*.snupkg
+*.obj
+*.dll
+*.exe
+*.cache
+*.csproj.user
+*.resx
+*.resources
+*.pdb
+*.suo
+*.tmp
+*.tmp_proj
+*.userosscache
+*.userprefs
+*.ide.*
+*.env
+
+# Python için
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+.env/
+.venv/
+ENV/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+*.egg
+dist/
+build/
+*.manifest
+*.spec
+
+# IDE'ler ve Editorler için
+.idea/
+*.iml
+*.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.code-workspace
+
+# Genel Gözardı Edilecekler
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.bak
+*.swp
+*.tmp
+*.old
+*.orig
+
+# Logs ve Veritabanı
+*.log
+*.sqlite3
+db.sqlite3
+
+# Proje Yapılandırma Dosyaları
+*.config
+*.yaml
+*.yml
