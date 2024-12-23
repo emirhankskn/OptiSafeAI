@@ -93,6 +93,16 @@ namespace OptiSafeAI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap listening {
+            get {
+                object obj = ResourceManager.GetObject("listening", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Profil {
             get {
                 object obj = ResourceManager.GetObject("Profil", resourceCulture);

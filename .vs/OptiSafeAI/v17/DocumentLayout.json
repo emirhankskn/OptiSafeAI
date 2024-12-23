@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\github\\optisafeai\\optisafeai\\app\\frmpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app\\frmpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\github\\optisafeai\\optisafeai\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\app\\frmpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app\\frmpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\app\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,36 +23,64 @@
       "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\github\\optisafeai\\optisafeai\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\github\\optisafeai\\optisafeai\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\github\\optisafeai\\optisafeai\\veritabani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:veritabani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|c:\\users\\halit\\onedrive\\masa\u00FCst\u00FC\\github\\optisafeai\\optisafeai\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\veritabani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:veritabani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\app\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\app\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\app\\frmraporlarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app\\frmraporlarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\app\\frmraporlarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app\\frmraporlarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\app\\frmraporlarpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app\\frmraporlarpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\listboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:listboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\app\\frmpersoneller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app\\frmpersoneller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,19 +98,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmMain.cs",
-              "RelativeDocumentMoniker": "frmMain.cs",
-              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmMain.cs [Design]",
-              "RelativeToolTip": "frmMain.cs [Design]",
+              "DocumentIndex": 12,
+              "Title": "frmRaporlarPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmRaporlarPage.Designer.cs",
+              "RelativeDocumentMoniker": "App\\frmRaporlarPage.Designer.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmRaporlarPage.Designer.cs",
+              "RelativeToolTip": "App\\frmRaporlarPage.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAJYAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:47:02.607Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-19T22:10:43.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
+              "Title": "ListBoxItem.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\ListBoxItem.cs",
+              "RelativeDocumentMoniker": "ListBoxItem.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\ListBoxItem.cs",
+              "RelativeToolTip": "ListBoxItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:55:45.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\UserControl1.cs",
+              "RelativeDocumentMoniker": "App\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\UserControl1.cs [Design]",
+              "RelativeToolTip": "App\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:23:02.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\UserManager.cs",
+              "RelativeDocumentMoniker": "UserManager.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\UserManager.cs",
+              "RelativeToolTip": "UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:20:04.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserRepository.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\UserRepository.cs",
+              "RelativeToolTip": "UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:20:01.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmRaporlarPage.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmRaporlarPage.cs",
+              "RelativeDocumentMoniker": "App\\frmRaporlarPage.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmRaporlarPage.cs",
+              "RelativeToolTip": "App\\frmRaporlarPage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwFkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:52:17.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:44:14.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
@@ -82,122 +189,147 @@
               "RelativeToolTip": "User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:37:02.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserManager.cs",
-              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\UserManager.cs",
-              "RelativeDocumentMoniker": "UserManager.cs",
-              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\UserManager.cs",
-              "RelativeToolTip": "UserManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:36:12.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T17:44:13.966Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\UserRepository.cs",
-              "RelativeDocumentMoniker": "UserRepository.cs",
-              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\UserRepository.cs",
-              "RelativeToolTip": "UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:31:58.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\packages.config",
-              "RelativeDocumentMoniker": "packages.config",
-              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\packages.config",
-              "RelativeToolTip": "packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-14T21:26:18.218Z"
+              "WhenOpened": "2024-12-19T17:44:02.658Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "VeriTabani.cs",
-              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\VeriTabani.cs",
-              "RelativeDocumentMoniker": "VeriTabani.cs",
-              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\VeriTabani.cs",
-              "RelativeToolTip": "VeriTabani.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:08:07.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmLogin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmLogin.Designer.cs",
-              "RelativeDocumentMoniker": "frmLogin.Designer.cs",
-              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmLogin.Designer.cs",
-              "RelativeToolTip": "frmLogin.Designer.cs",
-              "ViewState": "AgIAALEAAAAAAAAAAAAowMwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:06:52.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
               "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmLogin.cs [Design]",
               "RelativeToolTip": "frmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:01:53.096Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-19T17:44:01.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmMain.cs*",
+              "RelativeToolTip": "frmMain.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:00:17.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmMain.cs [Design]*",
+              "RelativeToolTip": "frmMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:00:17.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App.config",
               "RelativeDocumentMoniker": "App.config",
               "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App.config",
               "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-10T06:26:12.184Z",
+              "WhenOpened": "2024-12-19T08:59:10.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VeriTabani.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\VeriTabani.cs",
+              "RelativeDocumentMoniker": "VeriTabani.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\VeriTabani.cs",
+              "RelativeToolTip": "VeriTabani.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:59:06.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmPersoneller.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmPersoneller.Designer.cs",
+              "RelativeDocumentMoniker": "App\\frmPersoneller.Designer.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmPersoneller.Designer.cs",
+              "RelativeToolTip": "App\\frmPersoneller.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBoBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:26:18.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMainPage.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmMainPage.cs",
+              "RelativeDocumentMoniker": "App\\frmMainPage.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmMainPage.cs",
+              "RelativeToolTip": "App\\frmMainPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:58:40.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPersoneller.cs",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmPersoneller.cs",
+              "RelativeDocumentMoniker": "App\\frmPersoneller.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmPersoneller.cs",
+              "RelativeToolTip": "App\\frmPersoneller.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAADgv18BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:56:12.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmLogin.cs",
-              "RelativeDocumentMoniker": "frmLogin.cs",
-              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\frmLogin.cs",
-              "RelativeToolTip": "frmLogin.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Title": "frmMainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmMainPage.cs",
+              "RelativeDocumentMoniker": "App\\frmMainPage.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmMainPage.cs [Design]",
+              "RelativeToolTip": "App\\frmMainPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T21:44:03.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T10:49:39.563Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Title": "frmRaporlarPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmRaporlarPage.cs",
+              "RelativeDocumentMoniker": "App\\frmRaporlarPage.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmRaporlarPage.cs [Design]",
+              "RelativeToolTip": "App\\frmRaporlarPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:56:24.238Z"
+              "WhenOpened": "2024-12-17T10:49:37.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPersoneller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmPersoneller.cs",
+              "RelativeDocumentMoniker": "App\\frmPersoneller.cs",
+              "ToolTip": "C:\\Users\\halit\\OneDrive\\Masa\u00FCst\u00FC\\GitHub\\OptiSafeAI\\OptiSafeAI\\App\\frmPersoneller.cs [Design]",
+              "RelativeToolTip": "App\\frmPersoneller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:59:24.572Z"
             }
           ]
         }

@@ -63,7 +63,6 @@ namespace OptiSafeAI
 
             if (userManager.ValidateUser(user))
             {
-                MessageBox.Show("Giriş Başarılı", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 frmMain frmMain = new frmMain();
                 frmMain.Show();
                 this.Hide();
@@ -100,6 +99,7 @@ namespace OptiSafeAI
 
         private void timer1_Tick(object sender, EventArgs e)
         {
+            
             pnlMessage.Visible = false;
             lblMessage.Visible = false;
             timer1.Stop();

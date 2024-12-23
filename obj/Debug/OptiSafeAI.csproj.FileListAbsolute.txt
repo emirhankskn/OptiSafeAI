@@ -42,3 +42,7 @@ C:\Users\halit\OneDrive\Masaüstü\GitHub\OptiSafeAI\OptiSafeAI\bin\Debug\System
 C:\Users\halit\OneDrive\Masaüstü\GitHub\OptiSafeAI\OptiSafeAI\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\halit\OneDrive\Masaüstü\GitHub\OptiSafeAI\OptiSafeAI\obj\Debug\OptiSafeAI.csproj.Up2Date
 C:\Users\halit\OneDrive\Masaüstü\GitHub\OptiSafeAI\OptiSafeAI\obj\Debug\OptiSafeAI.frmMain.resources
+C:\Users\halit\OneDrive\Masaüstü\GitHub\OptiSafeAI\OptiSafeAI\obj\Debug\OptiSafeAI.App.frmPersoneller.resources
+C:\Users\halit\OneDrive\Masaüstü\GitHub\OptiSafeAI\OptiSafeAI\obj\Debug\OptiSafeAI.App.frmMainPage.resources
+C:\Users\halit\OneDrive\Masaüstü\GitHub\OptiSafeAI\OptiSafeAI\obj\Debug\OptiSafeAI.App.frmRaporlarPage.resources
+C:\Users\halit\OneDrive\Masaüstü\GitHub\OptiSafeAI\OptiSafeAI\obj\Debug\OptiSafeAI.App.UserControl1.resources
