@@ -1,2 +1,3 @@
-2024/12/24-01:04:19.696 e58 Creating DB C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\OptiSafeAI.exe.WebView2\EBWebView\Default\Local Storage\leveldb since it was missing.
-2024/12/24-01:04:19.714 e58 Reusing MANIFEST C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\OptiSafeAI.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2024/12/24-01:43:18.578 44c Reusing MANIFEST C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\OptiSafeAI.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2024/12/24-01:43:18.583 44c Recovering log #3
+2024/12/24-01:43:18.585 44c Reusing old log C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\OptiSafeAI.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 

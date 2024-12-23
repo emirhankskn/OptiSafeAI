@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\kskn1\\Desktop\\OptiSafeAI\\OptiSafeAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|c:\\users\\kskn1\\desktop\\optisafeai\\optisafeai\\app\\frmcameras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\kskn1\\Desktop\\OptiSafeAI\\OptiSafeAI\\app\\frmcameras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app\\frmcameras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|C:\\Users\\kskn1\\Desktop\\OptiSafeAI\\OptiSafeAI\\app\\frmcameras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|c:\\users\\kskn1\\desktop\\optisafeai\\optisafeai\\app\\frmcameras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A6FB792F-C5F0-424C-962C-263F625522AC}|OptiSafeAI.csproj|solutionrelative:app\\frmcameras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "App\\frmCameras.cs",
               "ToolTip": "C:\\Users\\kskn1\\Desktop\\OptiSafeAI\\OptiSafeAI\\App\\frmCameras.cs",
               "RelativeToolTip": "App\\frmCameras.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T15:26:40.678Z",
               "EditorCaption": ""
@@ -46,7 +46,8 @@
               "ToolTip": "C:\\Users\\kskn1\\Desktop\\OptiSafeAI\\OptiSafeAI\\App\\frmCameras.cs [Design]",
               "RelativeToolTip": "App\\frmCameras.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T14:02:50.603Z"
+              "WhenOpened": "2024-12-23T14:02:50.603Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

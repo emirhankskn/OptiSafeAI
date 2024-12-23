@@ -78,3 +78,13 @@ C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\Microsoft.Web.WebView2.Wp
 C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\Microsoft.Web.WebView2.Core.xml
 C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
 C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\Google.Protobuf.pdb
+C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\Google.Protobuf.xml
+C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\MySql.Data.xml
+C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\kskn1\Desktop\OptiSafeAI\OptiSafeAI\bin\Debug\System.IO.Pipelines.xml

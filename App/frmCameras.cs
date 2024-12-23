@@ -19,7 +19,10 @@ namespace OptiSafeAI.App
 
         private void frmCameras_Load(object sender, EventArgs e)
         {
-            webView21.Source = new Uri("http://127.0.0.1:5000/video_feed");
+            webView21.Source = new Uri("http://127.0.0.1:5000/video_feed/1");
+            webView22.Source = new Uri("http://127.0.0.1:5000/video_feed/2");
+            webView23.Source = new Uri("http://127.0.0.1:5000/video_feed/3");
+            webView24.Source = new Uri("http://127.0.0.1:5000/video_feed/4");
         }
     }
 }
