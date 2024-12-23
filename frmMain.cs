@@ -19,6 +19,7 @@ namespace OptiSafeAI
         private frmPersoneller frmPersoneller;
         private frmMainPage frmMainPage;
         private frmRaporlarPage frmRaporlarPage;
+        private frmCameras frmCameras;
         public frmMain()
         {
             InitializeComponent();
@@ -106,25 +107,28 @@ namespace OptiSafeAI
                     }
                     this.pnlMain.Controls.Add(frmRaporlarPage);
                     break;
+                case "cameras":
+                    if (frmCameras == null)
+                    {
+                        this.frmCameras = new frmCameras();
+                        this.frmCameras.Dock = DockStyle.Fill;
+                        this.frmCameras.Location = new Point(0, 0);
+                        this.frmCameras.TabIndex = 1;
+                    }
+                    this.pnlMain.Controls.Add(frmCameras);
+                    break;
                 default:
                     break;
             }
 
         }
 
-        private void btnPersoneller_Click(object sender, EventArgs e)
-        {
-            ShowForm("personel");
-        }
+        private void btnPersoneller_Click(object sender, EventArgs e) { ShowForm("personel"); }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            ShowForm("frmMain");
-        }
+        private void pictureBox1_Click(object sender, EventArgs e) { ShowForm("frmMain"); }
 
-        private void button5_Click(object sender, EventArgs e)
-        {
-            ShowForm("raporlar");
-        }
+        private void button5_Click(object sender, EventArgs e) { ShowForm("raporlar"); }
+
+        private void btnCameras_Click(object sender, EventArgs e) { ShowForm("cameras"); }
     }
 }
